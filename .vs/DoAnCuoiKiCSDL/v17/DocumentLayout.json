@@ -1,0 +1,1071 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\employeefolder\\selectdishesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\selectdishesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|c:\\users\\tang thanh\\source\\repos\\doancuoikicsdl\\doancuoikicsdl\\employee\\employeefolder\\selecttableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\selecttableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\employeefolder\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\order\\manageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\order\\manageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\employeefolder\\selecttableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\selecttableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\orderdetails\\chitietdonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\orderdetails\\chitietdonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\employeefolder\\selectdishesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\selectdishesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\employeefolder\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\table\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\table\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\analystcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\analystcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\admin\\homeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\admin\\homeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\analyst\\peakhourform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\analyst\\peakhourform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\dishes\\adddishesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\dishes\\adddishesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\dishes\\managefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\dishes\\managefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\dishes\\editdishform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\dishes\\editdishform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\category\\addcategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\category\\addcategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\analyst\\peakhourform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\analyst\\peakhourform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\category\\editcategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\category\\editcategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\admin\\homeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\admin\\homeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\admin\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\admin\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\analyst\\analystform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\analyst\\analystform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\analyst\\analystform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\analyst\\analystform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\admin\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\admin\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\order\\manageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\order\\manageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\analyst\\analystform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\analyst\\analystform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\resource\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\resource\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\dishes\\managefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\dishes\\managefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\dishes\\editdishform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\dishes\\editdishform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\general form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\general form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\configs\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\configs\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\general form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\general form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\table\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\table\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\orderdetails\\chitietdonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\orderdetails\\chitietdonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\category\\addcategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\category\\addcategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\dishes\\adddishesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\dishes\\adddishesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\category\\editcategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\category\\editcategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\employeefolder\\receiptform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\receiptform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\resource\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\resource\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\employeefolder\\selectdishesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\selectdishesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\employee\\employeefolder\\selectdishesform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\employee\\employeefolder\\selectdishesform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\admin\\adminhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\admin\\adminhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\dishes\\managefood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\dishes\\managefood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\dishes\\adddishesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\dishes\\adddishesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\admin\\homeadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\admin\\homeadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\doancuoikicsdl\\admin\\homeadmin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{556E3099-EF30-4E58-84D7-794FA0F7E44B}|DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL.csproj|solutionrelative:doancuoikicsdl\\admin\\homeadmin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tang Thanh\\Documents\\Zalo Received Files\\EditCategoryForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnCuoiKiCSDL\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnCuoiKiCSDL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SelectDishesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.cs",
+              "ViewState": "AgIAABADAAAAAAAAAAArwB8DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:04:22.702Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectTableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectTableForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectTableForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectTableForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectTableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:09:44.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\User.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\User.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\User.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:10:02.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EditCategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\Documents\\Zalo Received Files\\EditCategoryForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Zalo Received Files\\EditCategoryForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\Documents\\Zalo Received Files\\EditCategoryForm.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Zalo Received Files\\EditCategoryForm.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:59:22.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Program.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Program.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:10:02.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectDishesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:04:21.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\ManageEmployee.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\ManageEmployee.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\ManageEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:33:13.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:32:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Order\\ManageOrder.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Order\\ManageOrder.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Order\\ManageOrder.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Order\\ManageOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:55:01.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReceiptForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:34:59.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EditEmployee.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EditEmployee.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EditEmployee.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EditEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:32:38.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectTableForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectTableForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectTableForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectTableForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectTableForm.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAwwPMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:12:19.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\Global.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\Global.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\Global.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:36:46.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\User.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\User.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\User.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\User.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADgv4UAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:58:42.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\ChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\ChiTietDonHang.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\ChiTietDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:36:11.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\DonHang.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\DonHang.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\DonHang.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\DonHang.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:34:09.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\KhachHang.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\KhachHang.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:05:35.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\DanhMuc.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\DanhMuc.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\DanhMuc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:01:16.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PhanTich.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\PhanTich.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\PhanTich.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\PhanTich.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\PhanTich.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:56:12.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MonAn.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\MonAn.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\MonAn.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\MonAn.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\MonAn.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAADwv1cAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:32:30.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietDonHangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\OrderDetails\\ChiTietDonHangForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\OrderDetails\\ChiTietDonHangForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\OrderDetails\\ChiTietDonHangForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\OrderDetails\\ChiTietDonHangForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:58:48.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReceiptForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAADwv14AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:35:44.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Table\\TableForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Table\\TableForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Table\\TableForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Table\\TableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:46:10.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Analystcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analystcs.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Analystcs.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analystcs.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Analystcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:22:29.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\HomeAdmin.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Admin\\HomeAdmin.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\HomeAdmin.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Admin\\HomeAdmin.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAuwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:41:31.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PeakHourForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\PeakHourForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Analyst\\PeakHourForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\PeakHourForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Analyst\\PeakHourForm.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAADgv48AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:26:29.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ManageOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Order\\ManageOrder.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Order\\ManageOrder.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Order\\ManageOrder.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Order\\ManageOrder.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAADwv+QAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:55:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminHome.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\AdminHome.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Admin\\AdminHome.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\AdminHome.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Admin\\AdminHome.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAIAwwOIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:09:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Form1.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Form1.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:55:22.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddDishesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:48:50.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManageFood.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\ManageFood.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Dishes\\ManageFood.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\ManageFood.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Dishes\\ManageFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:50:23.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditDishForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\EditDishForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Dishes\\EditDishForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\EditDishForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Dishes\\EditDishForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:49:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddCategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Category\\AddCategoryForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Category\\AddCategoryForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Category\\AddCategoryForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Category\\AddCategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:58:31.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\AddEmployee.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\AddEmployee.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAD4vyAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:37:29.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Ban.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\Ban.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\Ban.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\Ban.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\Ban.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAcwIQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:22:29.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PeakHourForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\PeakHourForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Analyst\\PeakHourForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\PeakHourForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Analyst\\PeakHourForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:27:28.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditCategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Category\\EditCategoryForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Category\\EditCategoryForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Category\\EditCategoryForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Category\\EditCategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:58:33.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\HomeAdmin.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Admin\\HomeAdmin.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\HomeAdmin.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Admin\\HomeAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:40:49.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\AdminHome.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Admin\\AdminHome.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\AdminHome.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Admin\\AdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:47:06.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AnalystForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\AnalystForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Analyst\\AnalystForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\AnalystForm.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Analyst\\AnalystForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:01:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Class\\Program.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Class\\Program.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:50:02.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AnalystForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\AnalystForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Analyst\\AnalystForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\AnalystForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Analyst\\AnalystForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADgvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:48:25.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AnalystForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\AnalystForm.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Analyst\\AnalystForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Analyst\\AnalystForm.Designer.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Analyst\\AnalystForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:17:26.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Resource\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Resource\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Resource\\Resources.Designer.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Resource\\Resources.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:30:33.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManageFood.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\ManageFood.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Dishes\\ManageFood.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\ManageFood.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Dishes\\ManageFood.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:50:09.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\General form\\Login.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\General form\\Login.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\General form\\Login.cs [Design]",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\General form\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-20T17:23:48.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditDishForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\EditDishForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Dishes\\EditDishForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\EditDishForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Dishes\\EditDishForm.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwIwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:27:23.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Configs\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Configs\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Configs\\DBConnection.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Configs\\DBConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:57:05.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ManageEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\ManageEmployee.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\ManageEmployee.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\ManageEmployee.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAwwOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:00:08.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\General form\\Login.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\General form\\Login.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\General form\\Login.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\General form\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-22T07:28:14.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TableForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Table\\TableForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Table\\TableForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Table\\TableForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Table\\TableForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:10:29.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\App.config",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\App.config",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\App.config",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-12T12:52:37.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ChiTietDonHangForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\OrderDetails\\ChiTietDonHangForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\OrderDetails\\ChiTietDonHangForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\OrderDetails\\ChiTietDonHangForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\OrderDetails\\ChiTietDonHangForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:59:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EditEmployee.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EditEmployee.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EditEmployee.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EditEmployee.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:52:05.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddCategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Category\\AddCategoryForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Category\\AddCategoryForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Category\\AddCategoryForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Category\\AddCategoryForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:01:39.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AddDishesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:52:51.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EditCategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Category\\EditCategoryForm.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Category\\EditCategoryForm.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Category\\EditCategoryForm.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Category\\EditCategoryForm.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:58:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ReceiptForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.Designer.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\ReceiptForm.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwIQBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:28:15.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Resource\\Resources.resx",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Resource\\Resources.resx",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Resource\\Resources.resx",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Resource\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-21T03:47:39.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SelectDishesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.Designer.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.Designer.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAMwG4AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:37:40.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SelectDishesForm.resx",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.resx",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.resx",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.resx",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Employee\\EmployeeFolder\\SelectDishesForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-22T11:54:50.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AdminHome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\AdminHome.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Admin\\AdminHome.Designer.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\AdminHome.Designer.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Admin\\AdminHome.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:07:26.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ManageFood.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\ManageFood.designer.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Dishes\\ManageFood.designer.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\ManageFood.designer.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Dishes\\ManageFood.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:51:20.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AddDishesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.Designer.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Dishes\\AddDishesForm.Designer.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAACgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:50:40.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "HomeAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\HomeAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Admin\\HomeAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\HomeAdmin.Designer.cs",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Admin\\HomeAdmin.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:40:53.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HomeAdmin.resx",
+              "DocumentMoniker": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\HomeAdmin.resx",
+              "RelativeDocumentMoniker": "DoAnCuoiKiCSDL\\Admin\\HomeAdmin.resx",
+              "ToolTip": "C:\\Users\\Tang Thanh\\source\\repos\\DoAnCuoiKiCSDL\\DoAnCuoiKiCSDL\\Admin\\HomeAdmin.resx",
+              "RelativeToolTip": "DoAnCuoiKiCSDL\\Admin\\HomeAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-21T06:42:57.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
